@@ -1,0 +1,4 @@
+amine      | 15
+Med        | 790
+ismail     | 870
+amira      | 778

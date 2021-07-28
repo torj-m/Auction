@@ -1,0 +1,24 @@
+------------------
+Produit plante :
+ahlem      | 11         | echec
+asma       | 13         | echec
+amine      | 15         | succes
+------------------
+Produit pc :
+heger      | 600        | echec
+maroua     | 700        | echec
+Med        | 790        | succes
+------------------
+Produit TV :
+------------------
+Produit montre :
+yacine     | 400        | echec
+amine      | 500        | echec
+ilef       | 800        | echec
+ismail     | 870        | succes
+------------------
+Produit robe :
+ilhem      | 129        | echec
+zakaria    | 155        | echec
+zakaria    | 777        | echec
+amira      | 778        | succes

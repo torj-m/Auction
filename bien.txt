@@ -1,0 +1,7 @@
+Produit    |prix init   | prix fin   |      Etat  |    acheteur
+---------------------------------------------------------------
+plante     | 10         | 15         | Vendu      | amine
+pc         | 500        | 790        | Vendu      | Med
+TV         | 100        | 100        | Disponible | --
+montre     | 200        | 870        | Vendu      | ismail
+robe       | 100        | 778        | Vendu      | amira
